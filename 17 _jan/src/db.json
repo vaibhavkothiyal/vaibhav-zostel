@@ -1,0 +1,114 @@
+{
+  "admin": {
+    "email": "admin@portal.com",
+    "password": "adminpassword"
+  },
+  "list": [
+    {
+      "id": "1",
+      "company": "Intuit",
+      "job_title": "Mern developer",
+      "salary": "8LK-12LK",
+      "description": "required a person havind knowledge of MERN stack and over 4 year experience",
+      "location": "Noida",
+      "job_type": "Remote"
+    },
+    {
+      "id": "2",
+      "company": "Intuit",
+      "job_title": "Mern developer",
+      "salary": "8LK-12LK",
+      "description": "required a person havind knowledge of MERN stack and over 4 year experience",
+      "location": "Noida",
+      "job_type": "Remote"
+    },
+    {
+      "id": "3",
+      "company": "Intuit",
+      "job_title": "Mern developer",
+      "salary": "8LK-12LK",
+      "description": "required a person havind knowledge of MERN stack and over 4 year experience",
+      "location": "Noida",
+      "job_type": "Remote"
+    },
+    {
+      "id": "4",
+      "company": "Intuit",
+      "job_title": "Mern developer",
+      "salary": "8LK-12LK",
+      "description": "required a person havind knowledge of MERN stack and over 4 year experience",
+      "location": "Noida",
+      "job_type": "Remote"
+    },
+    {
+      "company": "abc",
+      "job_title": "frontend developer",
+      "salary": "8lk-11lk",
+      "description": "need a person having full knowledge in front end and have 2 year of experience in same",
+      "location": "mumbai",
+      "job_type": "on place",
+      "id": "1642416661322"
+    },
+    {
+      "company": "test",
+      "job_title": "test",
+      "salary": "11-19lk",
+      "description": "tst",
+      "location": "tst",
+      "job_type": "tst",
+      "id": "1642419729419"
+    },
+    {
+      "company": "tst22",
+      "job_title": "tst22",
+      "salary": "8lk-11lk",
+      "description": "tst22",
+      "location": "mumbai",
+      "job_type": "on place",
+      "id": "1642420243724"
+    }
+  ],
+  "applied": [
+    {
+      "applied_for": "Mern developer",
+      "applied_by": "abc1@gamil.com",
+      "to_date": "17-01-2022"
+    },
+    {
+      "applied_for": "Mern developer",
+      "applied_by": "abc2@gmail.com",
+      "to_date": "1",
+      "id": "siJVCnX"
+    },
+    {
+      "applied_for": "Mern developer",
+      "applied_by": "abc3@gmail.com",
+      "to_date": "17-01-2022",
+      "id": "6tlfSJJ"
+    },
+    {
+      "applied_for": "frontend developer",
+      "applied_by": "abc@gmail.com",
+      "to_date": "17-01-2022",
+      "id": "Bhbu572"
+    },
+    {
+      "applied_for": "Mern developer",
+      "applied_by": "abc@gmail.com",
+      "to_date": "17-01-2022",
+      "id": "_XL5GeS"
+    },
+    {
+      "applied_for": "Mern developer",
+      "applied_by": "abc@gmail.com",
+      "to_date": "17-01-2022",
+      "id": "lhHAwLD"
+    },
+    {
+      "applied_for": "tst22",
+      "applied_by": "abc@gmail.com",
+      "to_date": "17-01-2022",
+      "id": "OFdue_B"
+    }
+  ]
+}
